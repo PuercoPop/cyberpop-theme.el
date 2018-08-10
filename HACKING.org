@@ -9,8 +9,13 @@
     - [X] [[https://github.com/n3mo/cyberpunk-theme.el][cyberpunk-theme.el]]
     - [X] [[https://github.com/emacsfodder/emacs-theme-darktooth][emacs-theme-darktooth]]
     - [X] [[https://github.com/WammKD/emacs-klere-theme][emacs-klere-theme]]
-*** TODO Remove duplicates
-*** TODO Sort by hue
+*** DONE Remove duplicates
+    CLOSED: [2018-08-09 Thu 22:43]
+*** TODO Sort by perceived brightness
+
+sqrt(0.299 * R^2 + 0.587 * G^2 + 0.114 * B^2)
+from https://stackoverflow.com/a/24213692/357198
+
 *** TODO Trim candidates
 
 ** TODO Choose modes we will to support
