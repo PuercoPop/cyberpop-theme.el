@@ -1,0 +1,51 @@
+* Roadmap
+** TODO Collect color candidates for Palette
+*** DONE Scavenge Theme
+    CLOSED: [2018-08-09 Thu 22:06]
+
+    - [X] [[https://github.com/ahungry/color-theme-ahungry][color-theme-ahungry]]
+    - [X] [[https://github.com/andre-richter/emacs-lush-theme][emacs-lush-theme]]
+    - [X] [[https://github.com/jbharat/exotica-theme][exotica-theme]]
+    - [X] [[https://github.com/n3mo/cyberpunk-theme.el][cyberpunk-theme.el]]
+    - [X] [[https://github.com/emacsfodder/emacs-theme-darktooth][emacs-theme-darktooth]]
+    - [X] [[https://github.com/WammKD/emacs-klere-theme][emacs-klere-theme]]
+*** TODO Remove duplicates
+*** TODO Sort by hue
+*** TODO Trim candidates
+
+** TODO Choose modes we will to support
+   - Magit
+   - Info
+   - diff
+   - Ediff
+   - Ruby
+   - JS2
+   - JSON
+   - RJSX
+   - CSS
+   - sass
+   - WEB-mode
+   - lisp
+   - sly
+   - elisp
+   - org-mode
+   - markdown
+   - rcirc
+   - dired
+   - ivy
+   - ivy-occur
+   - counsel
+   - swiper
+   - Compilation
+   - flymake
+   - rspec
+   - rubucop
+   - man
+   - woman
+   - whitespace
+   - Fundamental?
+
+** TODO List their faces
+** TODO Look which faces appear next to each other
+** TODO Choose color palette
+** TODO Assign colors to faces.
